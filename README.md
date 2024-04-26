@@ -1,4 +1,5 @@
-# creditworthiness-logistic-regression
+# Predicting creditworthiness of financial client using logistic regression ML models
+
 Basic ML project to demonstrate use of logistic regression to determine creditworthiness of client
 
 
